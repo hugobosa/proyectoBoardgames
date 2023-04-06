@@ -1,0 +1,16 @@
+.gridHistoria{    
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    font-family: lexend;
+}
+.historia{
+    font-size: 18px;
+    color: rgb(90, 50, 0);
+    padding: 20px;
+    word-spacing: 5px;
+}
+.historia img{
+    object-fit: cover;
+    width:100%;
+    height:100%;
+}
