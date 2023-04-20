@@ -19,3 +19,172 @@
     display: inline-block;
     text-align: center;
 }
+.texto-encima{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.tyl1{
+    grid-column: 1/4;
+}
+.tyl2{
+    grid-column: 1/4;
+}
+.tyl3{
+    grid-column: 1/4;
+    background-color: rgb(255, 245, 223);
+}
+.tyl4{
+    grid-column: 1/2;
+}
+.tyl5{
+    grid-column: 2/3;
+}
+.tyl6{
+    grid-column: 3/4;
+}
+.tyl7{
+    grid-column: 1/4;
+    background-color: rgb(255, 245, 223);
+}
+.tyl8{
+    grid-column: 1/2;
+}
+.tyl9{
+    grid-column: 2/3;
+}
+.tyl10{
+    grid-column: 3/4;
+}
+.tyl11{
+    grid-column: 1/4;
+    background-color: rgb(255, 245, 223);
+}
+.tyl12{
+    grid-column: 1/2;
+}
+.tyl13{
+    grid-column: 2/3;
+}
+.tyl14{
+    grid-column: 3/4;
+}
+.tyl15{
+    grid-column: 1/4;
+    background-color: rgb(255, 245, 223);
+}
+.tyl16{
+    grid-column: 1/2;
+}
+.tyl17{
+    grid-column: 2/3;
+}
+.tyl18{
+    grid-column: 3/4;
+}
+.tyl19{
+    grid-column: 1/4;
+    background-color: rgb(255, 245, 223);
+}
+.tyl20{
+    grid-column: 1/2;
+}
+.tyl21{
+    grid-column: 2/3;
+}
+.tyl22{
+    grid-column: 3/4;
+}
+.tyl23{
+    grid-column: 1/4;
+    background-color: rgb(255, 245, 223);
+}
+.tyl24{
+    grid-column: 1/2;
+}
+.tyl25{
+    grid-column: 2/3;
+}
+.tyl26{
+    grid-column: 3/4;
+}
+.tyl27{
+    grid-column: 1/4;
+    background-color: rgb(255, 245, 223);
+}
+.tyl28{
+    grid-column: 1/2;
+}
+.tyl29{
+    grid-column: 2/3;
+}
+.tyl30{
+    grid-column: 3/4;
+}
+
+@media(max-width: 600px){
+    .tyl4{
+        grid-column: 1/4;
+    }
+    .tyl5{
+        grid-column: 1/4;
+    }
+    .tyl6{
+        grid-column: 1/4;
+    }
+    .tyl8{
+        grid-column: 1/4;
+    }
+    .tyl9{
+        grid-column: 1/4;
+    }
+    .tyl10{
+        grid-column: 1/4;
+    }
+    .tyl12{
+        grid-column: 1/4;
+    }
+    .tyl13{
+        grid-column: 1/4;
+    }
+    .tyl14{
+        grid-column: 1/4;
+    }
+    .tyl16{
+        grid-column: 1/4;
+    }
+    .tyl17{
+        grid-column: 1/4;
+    }
+    .tyl18{
+        grid-column: 1/4;
+    }
+    .tyl20{
+        grid-column: 1/4;
+    }
+    .tyl21{
+        grid-column: 1/4;
+    }
+    .tyl22{
+        grid-column: 1/4;
+    }
+    .tyl24{
+        grid-column: 1/4;
+    }
+    .tyl25{
+        grid-column: 1/4;
+    }
+    .tyl26{
+        grid-column: 1/4;
+    }
+    .tyl28{
+        grid-column: 1/4;
+    }
+    .tyl29{
+        grid-column: 1/4;
+    }
+    .tyl30{
+        grid-column: 1/4;
+    }
+}

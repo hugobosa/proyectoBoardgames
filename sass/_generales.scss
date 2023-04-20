@@ -3,13 +3,31 @@
     margin:0;
     padding:0;
 }
+
 .animacion{
     text-align: center;
     font-family: 'Aclonica';
 }
+
 .textoTituloh1{
     color: rgb(90, 50, 0);
     padding: 30px 20px 20px 30px;
     font-size: 35px;
     background-color: rgb(255, 190, 60);
+}
+
+.icon{
+    width: 48px;
+    height: 48px;
+}
+
+footer{
+    padding: 40px;
+    background-color: rgb(255, 245, 223);
+}
+
+.redes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }

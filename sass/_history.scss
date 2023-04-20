@@ -14,3 +14,199 @@
     width:100%;
     height:100%;
 }
+.his2{
+    grid-column: 1/5;
+}
+.his3{
+    grid-column: 1/5;
+    background-color: rgb(255, 245, 223);
+}
+.his4{
+    grid-column: 1/2;
+}
+.his5{
+    grid-column: 2/3;
+}
+.his6{
+    grid-column: 3/4;
+}
+.his7{
+    grid-column: 1/5;
+    background-color: rgb(255, 245, 223);
+}
+.his8{
+    grid-column: 1/2;
+}
+.his9{
+    grid-column: 2/3;
+}
+.his10{
+    grid-column: 3/4;
+}
+.his11{
+    grid-column: 1/5;
+    background-color: rgb(255, 245, 223);
+}
+.his12{
+    grid-column: 1/2;
+}
+.his13{
+    grid-column: 2/3;
+    }
+.his14{
+    grid-column: 3/5;
+}
+.his15{
+    grid-column: 1/5;
+    background-color: rgb(255, 245, 223);
+}
+.his16{
+    grid-column: 1/2;
+}
+.his17{
+    grid-column: 2/3;
+}
+.his18{
+    grid-column: 3/5;
+}
+.his19{
+    grid-column: 1/5;
+    background-color: rgb(255, 245, 223);
+}
+.his20{
+    grid-column: 1/2;
+}
+.his21{
+    grid-column: 2/3;
+}
+.his22{
+    grid-column: 3/5;
+}
+.his23{
+    grid-column: 1/5;
+    background-color: rgb(255, 245, 223);
+}
+.his24{
+    grid-column: 1/2;
+}
+.his25{
+    grid-column: 2/3;
+}
+.his26{
+    grid-column: 3/5;
+}
+
+@media(max-width: 724px){
+    .his4{
+        grid-column: 1/3;
+    }
+    .his5{
+        grid-column: 3/5;
+    }
+    .his6{
+        grid-column: 1/5;
+    }
+    .his8{
+        grid-column: 1/3;
+    }
+    .his9{
+        grid-column: 3/5;
+    }
+    .his10{
+        grid-column: 1/5;
+    }
+    .his12{
+        grid-column: 1/3;
+    }
+    .his13{
+        grid-column: 3/5;
+    }
+    .his14{
+        grid-column: 1/5;
+    }
+    .his16{
+        grid-column: 1/3;
+    }
+    .his17{
+        grid-column: 3/5;
+    }
+    .his18{
+        grid-column: 1/5;
+    }
+    .his20{
+        grid-column: 1/3;
+    }
+    .his21{
+        grid-column: 3/5;
+    }
+    .his22{
+        grid-column: 1/5;
+    }
+    .his24{
+        grid-column: 1/3;
+    }
+    .his25{
+        grid-column: 3/5;
+    }
+    .his26{
+        grid-column: 1/5;
+    }
+}
+
+
+@media(max-width: 425px){
+    .his4{
+        grid-column: 1/5;
+    }
+    .his5{
+        grid-column: 1/5;
+    }
+    .his6{
+        grid-column: 1/5;
+    }
+    .his8{
+        grid-column: 1/5;
+    }
+    .his9{
+        grid-column: 1/5;
+    }
+    .his10{
+        grid-column: 1/5;
+    }
+    .his12{
+        grid-column: 1/5;
+    }
+    .his13{
+        grid-column: 1/5;
+    }
+    .his14{
+        grid-column: 1/5;
+    }
+    .his16{
+        grid-column: 1/5;
+    }
+    .his17{
+        grid-column: 1/5;
+    }
+    .his18{
+        grid-column: 1/5;
+    }
+    .his20{
+        grid-column: 1/5;
+    }
+    .his21{
+        grid-column: 1/5;
+    }
+    .his22{
+        grid-column: 1/5;
+    }
+    .his24{
+        grid-column: 1/5;
+    }
+    .his25{
+        grid-column: 1/5;
+    }
+    .his26{
+        grid-column: 1/5;
+    }
+}
