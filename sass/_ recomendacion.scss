@@ -1,0 +1,17 @@
+.gridRecomendaciones{    
+    display: grid;
+    grid-template-columns: 40% 30% 30%;
+    grid-auto-rows: auto;
+    font-family: lexend;
+}
+.recomendacion{
+    font-size: 18px;
+    color: rgb(90, 50, 0);
+    padding: 20px;
+    word-spacing: 5px;
+}
+.recomendacion img{
+    object-fit: cover;
+    width:100%;
+    height:100%;
+}

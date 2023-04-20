@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Lexend:wght@400;500;600&family=Manrope:wght@400;800&family=Roboto:ital@0;1&family=Source+Serif+Pro:ital,wght@0,400;0,600;0,700;0,900;1,400&family=Tilt+Warp&display=swap');
 *{
     margin:0;
@@ -30,4 +31,20 @@ footer{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+=======
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Lexend:wght@400;500;600&family=Manrope:wght@400;800&family=Roboto:ital@0;1&family=Source+Serif+Pro:ital,wght@0,400;0,600;0,700;0,900;1,400&family=Tilt+Warp&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+.animacion{
+    text-align: center;
+    font-family: 'Aclonica';
+}
+.textoTituloh1{
+    color: rgb(90, 50, 0);
+    padding: 30px 20px 20px 30px;
+    font-size: 35px;
+    background-color: rgb(255, 190, 60);
+>>>>>>> 9ec920a0acd03592e8f3f28ece225a6ed718316d
 }

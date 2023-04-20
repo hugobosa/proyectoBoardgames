@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .gridTopylistas{
     display: grid;
     grid-template-columns: 33.3% 33.3% 33.3%;
@@ -187,4 +188,26 @@
     .tyl30{
         grid-column: 1/4;
     }
+=======
+.gridTopylistas{
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    font-family: lexend;    
+}    
+.topyLista{
+    font-size: 18px;
+    color: rgb(90, 50, 0);
+    padding: 25px;
+    word-spacing: 5px;
+}
+.topyLista img{
+    object-fit: cover;
+    width:100%;
+    height:100%;
+}
+.contenedorLista{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+>>>>>>> 9ec920a0acd03592e8f3f28ece225a6ed718316d
 }
