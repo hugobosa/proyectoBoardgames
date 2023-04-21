@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .gridHistoria{    
     display: grid;
     grid-template-columns: 33.3% 33.3% 33.3%;
@@ -7,7 +6,6 @@
 .historia{
     font-size: 18px;
     color: rgb(90, 50, 0);
-    padding: 20px;
     word-spacing: 5px;
 }
 .historia img{
@@ -17,214 +15,280 @@
 }
 .his2{
     grid-column: 1/5;
+    padding: 15px 70px 15px 70px;
 }
 .his3{
     grid-column: 1/5;
+    padding: 15px 70px 15px 70px;
     background-color: rgb(255, 245, 223);
 }
 .his4{
     grid-column: 1/2;
+    padding: 15px 15px 15px 70px;
 }
 .his5{
     grid-column: 2/3;
+    padding: 15px 15px 15px 15px;
 }
 .his6{
     grid-column: 3/4;
+    padding: 15px 70px 15px 15px;
 }
 .his7{
     grid-column: 1/5;
+    padding: 15px 70px 15px 70px;
     background-color: rgb(255, 245, 223);
 }
 .his8{
     grid-column: 1/2;
+    padding: 15px 15px 15px 70px;
 }
 .his9{
     grid-column: 2/3;
+    padding: 15px 15px 15px 15px;
 }
 .his10{
     grid-column: 3/4;
+    padding: 15px 70px 15px 15px;
 }
 .his11{
     grid-column: 1/5;
+    padding: 15px 70px 15px 70px;
     background-color: rgb(255, 245, 223);
 }
 .his12{
     grid-column: 1/2;
+    padding: 15px 15px 15px 70px;
 }
 .his13{
     grid-column: 2/3;
+    padding: 15px 15px 15px 15px;
     }
 .his14{
     grid-column: 3/5;
+    padding: 15px 70px 15px 15px;
 }
 .his15{
     grid-column: 1/5;
+    padding: 15px 70px 15px 70px;
     background-color: rgb(255, 245, 223);
 }
 .his16{
     grid-column: 1/2;
+    padding: 15px 15px 15px 70px;
 }
 .his17{
     grid-column: 2/3;
+    padding: 15px 15px 15px 15px;
 }
 .his18{
     grid-column: 3/5;
+    padding: 15px 70px 15px 15px;
 }
 .his19{
     grid-column: 1/5;
+    padding: 15px 70px 15px 70px;
     background-color: rgb(255, 245, 223);
 }
 .his20{
     grid-column: 1/2;
+    padding: 15px 15px 15px 70px;
 }
 .his21{
     grid-column: 2/3;
+    padding: 15px 15px 15px 15px;
 }
 .his22{
     grid-column: 3/5;
+    padding: 15px 70px 15px 15px;
 }
 .his23{
     grid-column: 1/5;
+    padding: 15px 70px 15px 70px;
     background-color: rgb(255, 245, 223);
 }
 .his24{
     grid-column: 1/2;
+    padding: 15px 15px 15px 70px;
 }
 .his25{
     grid-column: 2/3;
+    padding: 15px 15px 15px 15px;
 }
 .his26{
     grid-column: 3/5;
+    padding: 15px 70px 15px 15px;
 }
 
-@media(max-width: 724px){
+@media(max-width: 1024px){
     .his4{
         grid-column: 1/3;
     }
     .his5{
         grid-column: 3/5;
+        padding: 15px 70px 15px 15px;
     }
     .his6{
         grid-column: 1/5;
+        padding: 15px 70px 15px 70px;
     }
     .his8{
         grid-column: 1/3;
     }
     .his9{
         grid-column: 3/5;
+        padding: 15px 70px 15px 15px;
     }
     .his10{
         grid-column: 1/5;
+        padding: 15px 70px 15px 70px;
     }
     .his12{
         grid-column: 1/3;
     }
     .his13{
         grid-column: 3/5;
+        padding: 15px 70px 15px 15px;
     }
     .his14{
         grid-column: 1/5;
+        padding: 15px 70px 15px 70px;
     }
     .his16{
         grid-column: 1/3;
     }
     .his17{
         grid-column: 3/5;
+        padding: 15px 70px 15px 15px;
     }
     .his18{
         grid-column: 1/5;
+        padding: 15px 70px 15px 70px;
     }
     .his20{
         grid-column: 1/3;
     }
     .his21{
         grid-column: 3/5;
+        padding: 15px 70px 15px 15px;
     }
     .his22{
         grid-column: 1/5;
+        padding: 15px 70px 15px 70px;
     }
     .his24{
         grid-column: 1/3;
     }
     .his25{
         grid-column: 3/5;
+        padding: 15px 70px 15px 15px;
     }
     .his26{
         grid-column: 1/5;
+        padding: 15px 70px 15px 70px;
     }
 }
 
 
-@media(max-width: 425px){
+@media(max-width: 650px){
+    .his2{
+        grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
+    }
+    .his3{
+        grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
+    }
     .his4{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his5{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his6{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
+    }
+    .his7{
+        grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his8{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his9{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his10{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
+    }
+    .his11{
+        grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his12{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his13{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his14{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
+    }
+    .his15{
+        grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his16{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his17{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his18{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
+    }
+    .his19{
+        grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his20{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his21{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his22{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
+    }
+    .his23{
+        grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his24{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his25{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
     .his26{
         grid-column: 1/5;
+        padding: 15px 50px 15px 50px;
     }
-=======
-.gridHistoria{    
-    display: grid;
-    grid-template-columns: 33.3% 33.3% 33.3%;
-    font-family: lexend;
-}
-.historia{
-    font-size: 18px;
-    color: rgb(90, 50, 0);
-    padding: 20px;
-    word-spacing: 5px;
-}
-.historia img{
-    object-fit: cover;
-    width:100%;
-    height:100%;
->>>>>>> 9ec920a0acd03592e8f3f28ece225a6ed718316d
 }

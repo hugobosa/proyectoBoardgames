@@ -111,66 +111,82 @@
 @media(max-width: 768px){
     .ca1{
         grid-column: 1/4;
+        grid-row: 1/2;
         padding: 30px;
     }
     .ca2 {
         grid-column: 1/4;
+        grid-row: 2/3;
         padding: 30px;
     }
     .ca3 {
         grid-column: 1/4;
-        padding: 30px;
+        grid-row: 3/4;
+        padding: 15px 50px 0px 50px;
     }
     .ca4 {
         grid-column: 1/4;
-        padding: 30px;
+        grid-row: 4/5;
+        padding: 0px 50px 15px 50px;
     }
     .ca5 {
         grid-column: 1/4;
-        padding: 30px;
+        grid-row: 6/7;
+        padding: 0px 50px 15px 50px;
     }
     .ca6 {
         grid-column: 1/4;
-        padding: 30px;
+        grid-row: 5/6;
+        padding: 15px 50px 0px 50px;
     }
     .ca7 {
         grid-column: 1/4;
-        padding: 30px;
+        grid-row: 7/8;
+        padding: 15px 50px 0px 50px;
     }
     .ca8 {
         grid-column: 1/4;
-        padding: 30px;
+        grid-row: 8/9;
+        padding: 0px 50px 15px 50px;
     }
     .ca9 {
         grid-column: 1/4;
-        padding: 30px;
+        grid-row: 10/11;
+        padding: 0px 50px 15px 50px;
     }
     .ca10 {
         grid-column: 1/4;
-        padding: 30px;
+        grid-row: 9/10;
+        padding: 15px 50px 0px 50px;
     }
     .ca11 {
         grid-column: 1/4;
-        padding: 30px;
+        grid-row: 11/12;
+        padding: 15px 50px 0px 50px;
     }
     .ca12 {
         grid-column: 1/4;
-        padding: 30px;
+        grid-row: 12/13;
+        padding: 0px 50px 15px 50px;
     }
     .ca13 {
         grid-column: 1/4;
-        padding: 30px;
+        grid-row: 14/15;
+        padding: 0px 50px 15px 50px;
     }
     .ca14 {
         grid-column: 1/4;
-        padding: 30px;
+        grid-row: 13/14;
+        padding: 15px 50px 0px 50px;
     }
     .ca15 {
         grid-column: 1/4;
-        padding: 30px;
+        grid-row: 15/16;
+        padding: 15px 50px 0px 50px;
     }
     .ca16 {
         grid-column: 1/4;
-        padding: 30px;
+        grid-row: 16/17;
+        padding: 0px 50px 15px 50px;
     }    
 }
